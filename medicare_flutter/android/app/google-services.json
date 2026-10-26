@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537726391972",
+    "project_id": "medicare-ba41e",
+    "storage_bucket": "medicare-ba41e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537726391972:android:85f7ed1cb35361d4173831",
+        "android_client_info": {
+          "package_name": "com.example.medicare_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPrhPB3JlhgrdRuqEDVZkM_qFyvYNq210"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
